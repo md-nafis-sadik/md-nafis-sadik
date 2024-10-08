@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Visitors&color=#FF9DFF00&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Visitors&color=FF9DFF00&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/md-nafis-sadik?style=social" alt="GitHub Followers" />
 </p>
 

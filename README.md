@@ -19,10 +19,6 @@
 <a href="https://linkedin.com/in/md-nafis-sadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nafis-sadik" height="30" width="40" /></a>
 <a href="https://kaggle.com/nafissadikemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafissadikemon" height="30" width="40" /></a>
 <a href="https://fb.com/emonafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emonafis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/menafissadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="menafissadik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sadikmdnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sadikmdnafis" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nafissadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nafissadik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nafis-sadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafis-sadik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

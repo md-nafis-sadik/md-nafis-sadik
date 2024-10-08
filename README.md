@@ -79,4 +79,10 @@ I'm Md Nafis Sadik, a dedicated Software Engineer with a passion for creating im
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
 

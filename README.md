@@ -14,12 +14,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
 
-<p align="center">
-  <a href="https://github.com/MdNafisSadik">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MdNafisSadik&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MdNafisSadik&layout=compact&langs_count=8&theme=gruvbox&include_all_commits=true&count_private=true" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="md-nafis-sadik" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&theme=radical&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=radical&hide_border=false&layout=compact" height="150px"/>
+</div>
 
 <div>
   <h3>🛠️ Tech Stack</h3>
@@ -46,7 +45,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/mdnafissadik/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>
+  <a href="https://twitter.com/mdnafissadik">
+    <img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/>
+  </a>
 </p>

@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Visitors&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Visitors&color=#FF9DFF00&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/md-nafis-sadik?style=social" alt="GitHub Followers" />
 </p>
 
@@ -22,9 +22,7 @@
 
 <h3 align="left">🚀 Let's Connect:</h3>
 <p align="left">
-  <a href="https://twitter.com/nafissadikemon" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/nafissadikemon?logo=twitter&style=for-the-badge" alt="Twitter">
-  </a>
+  
   <a href="https://linkedin.com/in/md-nafis-sadik" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>

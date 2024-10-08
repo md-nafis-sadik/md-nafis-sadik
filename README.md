@@ -1,18 +1,11 @@
 <h1 align="center">
   <code>"Hello World! I'm MD Nafis Sadik 👋"</code>
 </h1>
-<h3 align="center">
-  Passionate Software Engineer | Code Enthusiast | Innovator
-</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Visitors&color=blue&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/md-nafis-sadik?style=social" alt="GitHub Followers" />
-</p>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0570B9&center=true&vCenter=true&width=600&lines=Hello+there!+Welcome+to+my+GitHub;I'm+a+Full-Stack+Web+Developer;Always+Learning+New+Technologies!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0570B9&center=true&vCenter=true&width=600&lines=Hello+there!+Welcome+to+my+GitHub;I'm+a+Full-Stack+Web+Developer;Always+Learning+New+Technologies!" alt="Typing SVG">
 </div>
 
 

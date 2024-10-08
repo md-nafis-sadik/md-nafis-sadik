@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Visitors&color=pink&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Visitors&color=blue&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/md-nafis-sadik?style=social" alt="GitHub Followers" />
 </p>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7006D&background=FF9DFF00&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Developer;Passionate+About+Innovation+%26+Technology;Always+Learning+Something+New!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7006D&background=blue&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Developer;Passionate+About+Innovation+%26+Technology;Always+Learning+Something+New!" alt="Typing SVG">
 </div>
 
 

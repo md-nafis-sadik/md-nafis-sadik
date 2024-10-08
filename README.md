@@ -1,9 +1,8 @@
 <h1 align="center">Hello World! I'm MD NAFIS SADIK 🌍🚀</h1>
-<h3 align="center">Innovator at heart, Developer by choice - Building the future, one line of code at a time!</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7006D&background=FF9DFF00&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Developer;Passionate+About+Innovation+%26+Technology;Always+Learning+Something+New!" alt="Typing SVG">
+</div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Profile%20views&color=brightgreen&style=flat-square" alt="md-nafis-sadik" /> 
-</p>
 
 - 👨‍💻 Check out my portfolio at [md-nafis-sadik.github.io/portfolio/](https://md-nafis-sadik.github.io/portfolio/)
 
@@ -46,6 +45,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=radical&hide_border=false&layout=compact" height="150px"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7006D&background=FF9DFF00&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Developer;Passionate+About+Innovation+%26+Technology;Always+Learning+Something+New!" alt="Typing SVG">
-</div>
+

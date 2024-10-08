@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://md-nafis-sadik.github.io/portfolio/](https://md-nafis-sadik.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://tripsilon.com/blog/](https://tripsilon.com/blog/)
-
-- 💬 Ask me about **Nextjs, React, Mysql etc**
-
 - 📫 How to reach me **mdnafissadikemon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

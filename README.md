@@ -30,14 +30,14 @@
 ## <p align="left">📫 <b>Connect with Me</b></p>
 
 <p align="left">
-  If you're interested in collaborating or have any questions, feel free to reach out via email: <a href="mailto:mdnafissadik@gmail.com">mdnafissadik@gmail.com</a>
+  If you're interested in collaborating or have any questions, feel free to reach out via email: <a href="mailto:mdnafissadik@gmail.com">mdnafissadikemon@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdnafissadik/">
+  <a href="https://www.linkedin.com/in/md-nafis-sadik/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
-  <a href="https://twitter.com/mdnafissadik">
+  <a href="https://twitter.com/NafisSadikEmon">
     <img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/>
   </a>
 </p>

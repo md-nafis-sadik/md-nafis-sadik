@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7006D&background=blue&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Developer;Passionate+About+Innovation+%26+Technology;Always+Learning+Something+New!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0570B9&center=true&vCenter=true&width=600&lines=Hello+there!+Welcome+to+my+GitHub;I'm+a+Full-Stack+Web+Developer;Always+Learning+New+Technologies!" alt="Typing SVG">
 </div>
 
 

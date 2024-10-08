@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=20&pause=1000&color=teal&center=true&random=false&width=435&lines=Web+Developer;Software+Engineer;Tech+Enthusiast;Continuous+Learner" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=20&pause=1000&color=teal&center=true&random=false&width=435&lines=Web+Developer;Software+Engineer;Passionate+About+Innovation+%26+Technology;Always+Learning+Something+New!" />
   </p>
 </div>
 

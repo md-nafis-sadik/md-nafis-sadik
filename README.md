@@ -18,9 +18,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&random=123&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="md-nafis-sadik" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&random=123&theme=github_dark&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&random=123&theme=github_dark&hide_border=false&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="md-nafis-sadik" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&theme=github_dark&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=github_dark&hide_border=false&layout=compact" height="150px"/>
 </div>
 
 

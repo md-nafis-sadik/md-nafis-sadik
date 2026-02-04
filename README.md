@@ -6,8 +6,6 @@
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9A%A1;Passionate+About+Clean+Code+%F0%9F%8E%AF;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   
   <!-- Social Badges -->
   <p>
@@ -108,29 +106,13 @@ const nafis = {
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
+<td width="100%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=md-nafis-sadik&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=F85D7F" alt="GitHub Streak" />
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-trophy.vercel.app/?username=md-nafis-sadik&theme=radical&no-frame=true&no-bg=true&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</td>
-</tr>
 </table>
 </div>
 

@@ -106,31 +106,32 @@ const nafis = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Statistics
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  
-  <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=md-nafis-sadik&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  
-  <br/><br/>
-  
-  <!-- Most Used Languages -->
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-  
-  <!-- Activity Graph -->
-  <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" alt="Activity Graph"/>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<br/>
+</td>
+<td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=md-nafis-sadik&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=F85D7F" alt="GitHub Streak" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Trophies
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-nafis-sadik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-trophy.vercel.app/?username=md-nafis-sadik&theme=radical&no-frame=true&no-bg=true&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -151,10 +152,12 @@ const nafis = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true" width="100%" alt="Contribution Graph" />
+
 </div>
 
 <br/>
@@ -179,13 +182,14 @@ const nafis = {
   
   <br/><br/>
   
+  <!-- GitHub Metrics -->
+  <img src="https://img.shields.io/github/followers/md-nafis-sadik?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/md-nafis-sadik?label=Stars&style=social" alt="GitHub Stars" />
+  
+  <br/><br/>
+  
   <p>⭐️ From <a href="https://github.com/md-nafis-sadik">md-nafis-sadik</a> with 💙</p>
   
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/md-nafis-sadik/md-nafis-sadik/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Footer Wave -->

@@ -108,18 +108,18 @@ const nafis = {
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   
   <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=md-nafis-sadik&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   
   <br/><br/>
   
   <!-- Most Used Languages -->
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
   
   <!-- Activity Graph -->
-  <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" alt="Activity Graph"/>
 
 </div>
 
@@ -130,7 +130,7 @@ const nafis = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-nafis-sadik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=md-nafis-sadik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -154,7 +154,7 @@ const nafis = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>

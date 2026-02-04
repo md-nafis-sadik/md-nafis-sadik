@@ -1,43 +1,192 @@
 <div align="center">
-  <h1>
-    Hello { world },  I'm Md Nafis Sadik
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h1>
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Nafis%20Sadik&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9A%A1;Passionate+About+Clean+Code+%F0%9F%8E%AF;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=md-nafis-sadik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  
+  <!-- Social Badges -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=20&pause=1000&color=teal&center=true&random=false&width=435&lines=Web+Developer;Software+Engineer;Passionate+About+Innovation+%26+Technology;Always+Learning+Something+New!" />
+    <a href="https://www.linkedin.com/in/md-nafis-sadik/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/NafisSadikEmon">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="mailto:mdnafissadikemon@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
   </p>
+
 </div>
 
-<p>
-  I'm a passionate web developer with a strong foundation in HTML, CSS, JavaScript, and experience in React, Next.js, Laravel, MySQL, and MongoDB. I strive to create dynamic, user-friendly web applications and continuously improve my skills through hands-on projects.
-</p><br/>
+<br/>
 
-## <p align="left">🛠️ <b>Languages and Tools</b></p>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><br/>
+<!-- About Me Section with Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+
+```typescript
+const nafis = {
+    pronouns: "He" | "Him",
+    location: "Rajshahi, Bangladesh 🇧🇩",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "PHP", "C++"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind CSS", "Bootstrap", "Material UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            php: ["Laravel"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        devOps: ["Docker", "Google Cloud Platform", "Linux"],
+        tools: ["Git", "VS Code", "Postman", "Figma"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="md-nafis-sadik" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&theme=github_dark&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=github_dark&hide_border=false&layout=compact" height="150px"/>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
 </div>
 
+<br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Statistics
 
-## <p align="left">📫 <b>Connect with Me</b></p>
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nafis-sadik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+  <br/><br/>
+  
+  <!-- Most Used Languages -->
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nafis-sadik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
+  
+  <!-- Activity Graph -->
+  <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
-<p align="left">
-  If you're interested in collaborating or have any questions, feel free to reach out via email: <a href="mailto:mdnafissadikemon@gmail.com">mdnafissadikemon@gmail.com</a>
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-nafis-sadik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 Current Focus
+
+```javascript
+🔭 Working on: Full-stack web applications with React & Node.js
+🌱 Learning: Advanced TypeScript, System Design, Cloud Architecture
+👯 Open to: Collaborating on innovative web projects
+💬 Ask me about: JavaScript, React, Node.js, Web Development
+⚡ Fun fact: I think semicolons are optional... sometimes 😉
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+  <p>I'm always interested in connecting with fellow developers and exploring new opportunities!</p>
+  
   <a href="https://www.linkedin.com/in/md-nafis-sadik/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/NafisSadikEmon">
-    <img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
+  <a href="mailto:mdnafissadikemon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <br/><br/>
+  
+  <p>⭐️ From <a href="https://github.com/md-nafis-sadik">md-nafis-sadik</a> with 💙</p>
+  
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/md-nafis-sadik/md-nafis-sadik/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>

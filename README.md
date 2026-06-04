@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042C53,50:185FA5,100:26215C&height=180&section=header&text=Md%20Nafis%20Sadik&fontSize=42&fontAlignY=45&fontColor=E6F1FB&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=68&descAlign=50&descColor=85B7EB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042C53,50:185FA5,100:26215C&height=180&section=header&text=Md%20Nafis%20Sadik&fontSize=42&fontAlignY=45&fontColor=E6F1FB&desc=Full%20Stack%20Web%20Developer%20%7C%20Software%20Engineer&descAlignY=68&descAlign=50&descColor=85B7EB" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5aacea&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9A%A1;Passionate+About+Clean+Code+%F0%9F%8E%AF;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />

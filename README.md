@@ -1,6 +1,6 @@
 <div align="center">
 
-# Md Nafis Sadik — building on the web <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
+# Hi { to: 'Everyone' }, I'm Nafis Sadik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=5B8DEF&center=true&vCenter=true&width=560&lines=React+%2B+Next.js+on+the+frontend;Laravel+%2B+Node%2FExpress+on+the+backend;Building+booking%2C+admin+%26+SaaS+platforms;Always+shipping%2C+always+debugging" alt="Typing SVG" />
 

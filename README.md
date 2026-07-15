@@ -1,19 +1,18 @@
 <div align="center">
 
-# Md Nafis Sadik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
+# Md Nafis Sadik — building on the web <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
 
-### Full Stack Web Developer · React · Next.js · Laravel · Node.js
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=9CB8D8&center=true&vCenter=true&width=560&lines=React+%2B+Next.js+on+the+frontend;Laravel+%2B+Node%2FExpress+on+the+backend;Building+booking%2C+admin+%26+SaaS+platforms;Always+shipping%2C+always+debugging" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=5B8DEF&center=true&vCenter=true&width=560&lines=React+%2B+Next.js+on+the+frontend;Laravel+%2B+Node%2FExpress+on+the+backend;Building+booking%2C+admin+%26+SaaS+platforms;Always+shipping%2C+always+debugging" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/md-nafis-sadik/"><img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white"/></a>
-  <a href="https://twitter.com/NafisSadikEmon"><img src="https://img.shields.io/badge/Twitter-white?style=flat-square&logo=x&logoColor=000000&labelColor=white"/></a>
-  <a href="mailto:mdnafissadikemon@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=D14836&labelColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-nafis-sadik/"><img src="https://img.shields.io/badge/LinkedIn-14161C?style=for-the-badge&logo=linkedin&logoColor=5B8DEF"/></a>
+  <a href="https://twitter.com/NafisSadikEmon"><img src="https://img.shields.io/badge/Twitter-14161C?style=for-the-badge&logo=x&logoColor=E8E6E1"/></a>
+  <a href="mailto:mdnafissadikemon@gmail.com"><img src="https://img.shields.io/badge/Email-14161C?style=for-the-badge&logo=gmail&logoColor=5B8DEF"/></a>
 </p>
 
 </div>
 
+<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
 
@@ -28,55 +27,58 @@ const nafis = {
 };
 ```
 
+<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=react&logoColor=61DAFB&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=next.js&logoColor=000000&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-white?style=flat-square&logo=redux&logoColor=764ABC&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-white?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=white"/>
+  <img src="https://img.shields.io/badge/React-14161C?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-14161C?style=for-the-badge&logo=next.js&logoColor=E8E6E1"/>
+  <img src="https://img.shields.io/badge/Redux-14161C?style=for-the-badge&logo=redux&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-14161C?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/TypeScript-14161C?style=for-the-badge&logo=typescript&logoColor=6C8EBF"/>
 </p>
 
 **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=node.js&logoColor=339933&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Express-white?style=flat-square&logo=express&logoColor=000000&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-white?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-white?style=flat-square&logo=php&logoColor=777BB4&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-14161C?style=for-the-badge&logo=node.js&logoColor=7ED08C"/>
+  <img src="https://img.shields.io/badge/Express-14161C?style=for-the-badge&logo=express&logoColor=E8E6E1"/>
+  <img src="https://img.shields.io/badge/Laravel-14161C?style=for-the-badge&logo=laravel&logoColor=E08E8E"/>
+  <img src="https://img.shields.io/badge/PHP-14161C?style=for-the-badge&logo=php&logoColor=A78BFA"/>
 </p>
 
 **Databases & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=2496ED&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-white?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-14161C?style=for-the-badge&logo=mongodb&logoColor=7ED08C"/>
+  <img src="https://img.shields.io/badge/MySQL-14161C?style=for-the-badge&logo=mysql&logoColor=6C8EBF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-14161C?style=for-the-badge&logo=postgresql&logoColor=6C8EBF"/>
+  <img src="https://img.shields.io/badge/Docker-14161C?style=for-the-badge&logo=docker&logoColor=6C8EBF"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-14161C?style=for-the-badge&logo=googlecloud&logoColor=5B8DEF"/>
 </p>
 
 **Tools**
 <p>
-  <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=F05032&labelColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-white?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Git-14161C?style=for-the-badge&logo=git&logoColor=E08E8E"/>
+  <img src="https://img.shields.io/badge/VS_Code-14161C?style=for-the-badge&logo=visualstudiocode&logoColor=6C8EBF"/>
+  <img src="https://img.shields.io/badge/Postman-14161C?style=for-the-badge&logo=postman&logoColor=E08E8E"/>
+  <img src="https://img.shields.io/badge/Figma-14161C?style=for-the-badge&logo=figma&logoColor=E08E8E"/>
 </p>
 
+<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-nafis.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=0,E8F1FB,F1E9FB&title_color=4A5A78&text_color=555555&icon_color=6C8EBF"/>
-<img height="165" src="https://github-readme-stats-nafis.vercel.app/api/top-langs/?username=md-nafis-sadik&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=0,E8F1FB,F1E9FB&title_color=4A5A78&text_color=555555"/>
+<img height="165" src="https://github-readme-stats-nafis.vercel.app/api?username=md-nafis-sadik&show_icons=true&theme=default&hide_border=false&border_color=2A2D35&border_radius=10&count_private=true&include_all_commits=true&bg_color=14161C&title_color=5B8DEF&text_color=C9CDD6&icon_color=5B8DEF"/>
+<img height="165" src="https://github-readme-stats-nafis.vercel.app/api/top-langs/?username=md-nafis-sadik&layout=compact&theme=default&hide_border=false&border_color=2A2D35&border_radius=10&langs_count=8&bg_color=14161C&title_color=5B8DEF&text_color=C9CDD6"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=minimal&hide_border=true&bg_color=ffffff&color=4A5A78&line=6C8EBF&point=2E3A52&area=true&area_color=6C8EBF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nafis-sadik&theme=minimal&hide_border=false&border_color=2A2D35&bg_color=14161C&color=5B8DEF&line=5B8DEF&point=E8E6E1&area=true&area_color=5B8DEF" width="100%"/>
 </div>
 
+<br/>
 
 ## <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect</p>
 
@@ -84,7 +86,7 @@ const nafis = {
 
 Open to freelance work and interesting problems — reach out if something needs building.
 
-<a href="https://www.linkedin.com/in/md-nafis-sadik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=white"/></a>
-<a href="mailto:mdnafissadikemon@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-white?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-nafis-sadik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-14161C?style=for-the-badge&logo=linkedin&logoColor=5B8DEF"/></a>
+<a href="mailto:mdnafissadikemon@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-14161C?style=for-the-badge&logo=gmail&logoColor=5B8DEF"/></a>
 
 </div>

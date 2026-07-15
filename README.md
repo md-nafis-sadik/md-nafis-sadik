@@ -20,9 +20,8 @@ I'm a full stack developer, building end-to-end web applications with **React/Re
 
 ```js
 const nafis = {
-  based_in: "Rajshahi, Bangladesh 🇧🇩",
   focus: ["React & Next.js", "Laravel", "Node.js / Express"],
-  currently_building: "Booking platforms, admin panels & SaaS tools",
+  currently_building: "Ecommerce and Booking platforms, admin panels & SaaS tools",
   approach: "clean diffs, no unnecessary noise",
 };
 ```

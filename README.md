@@ -16,7 +16,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
 
-I'm a full stack developer based in Rajshahi, Bangladesh, building end-to-end web applications with **React/Redux** and **Next.js** on the frontend, **Laravel** and **Node.js/Express** on the backend. I own projects from architecture and API design through to the pixel-level UI — recent work spans booking platforms, admin dashboards, and eSIM/telecom systems, including complex logic like multi-service scheduling, timezone-safe availability engines, and RTK Query-driven state layers.
+I'm a full stack developer, building end-to-end web applications with **React/Redux** and **Next.js** on the frontend, **Laravel** and **Node.js/Express** on the backend. I own projects from architecture and API design through to the pixel-level UI — recent work spans booking platforms, admin dashboards, and eSIM/telecom systems, including complex logic like multi-service scheduling, timezone-safe availability engines, and RTK Query-driven state layers.
 
 ```js
 const nafis = {
